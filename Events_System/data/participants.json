@@ -1,0 +1,67 @@
+[
+    {
+        "id": "p0000001-0000-4000-8000-000000000001",
+        "event_id": "e0000001-0000-4000-8000-000000000002",
+        "student_number": "2021-00011",
+        "full_name": "Miguel Santos",
+        "course": "BS Information Technology",
+        "year_level": "3rd Year",
+        "email": "miguel.santos@cvsu.edu.ph",
+        "contact_number": "09171234501",
+        "reference_number": "CEMS-AB1234",
+        "attendance_status": "registered",
+        "registration_date": "2026-02-01T00:00:00+00:00"
+    },
+    {
+        "id": "p0000001-0000-4000-8000-000000000002",
+        "event_id": "e0000001-0000-4000-8000-000000000003",
+        "student_number": "2021-00012",
+        "full_name": "Isabel Cruz",
+        "course": "BS Public Administration",
+        "year_level": "2nd Year",
+        "email": "isabel.cruz@cvsu.edu.ph",
+        "contact_number": "09171234502",
+        "reference_number": "CEMS-CD5678",
+        "attendance_status": "registered",
+        "registration_date": "2026-02-15T00:00:00+00:00"
+    },
+    {
+        "id": "p0000001-0000-4000-8000-000000000003",
+        "event_id": "e0000001-0000-4000-8000-000000000004",
+        "student_number": "2021-00013",
+        "full_name": "Joshua Lim",
+        "course": "BS Business Administration",
+        "year_level": "4th Year",
+        "email": "joshua.lim@cvsu.edu.ph",
+        "contact_number": "09171234503",
+        "reference_number": "CEMS-EF9012",
+        "attendance_status": "registered",
+        "registration_date": "2026-03-01T00:00:00+00:00"
+    },
+    {
+        "id": "p0000001-0000-4000-8000-000000000004",
+        "event_id": "e0000001-0000-4000-8000-000000000005",
+        "student_number": "2021-00014",
+        "full_name": "Ana Perez",
+        "course": "BS Environmental Science",
+        "year_level": "3rd Year",
+        "email": "ana.perez@cvsu.edu.ph",
+        "contact_number": "09171234504",
+        "reference_number": "CEMS-GH3456",
+        "attendance_status": "registered",
+        "registration_date": "2026-03-15T00:00:00+00:00"
+    },
+    {
+        "id": "p0000001-0000-4000-8000-000000000005",
+        "event_id": "e0000001-0000-4000-8000-000000000006",
+        "student_number": "2021-00015",
+        "full_name": "Mark dela Cruz",
+        "course": "BS Physical Education",
+        "year_level": "2nd Year",
+        "email": "mark.delacruz@cvsu.edu.ph",
+        "contact_number": "09171234505",
+        "reference_number": "CEMS-IJ7890",
+        "attendance_status": "registered",
+        "registration_date": "2026-04-01T00:00:00+00:00"
+    }
+]
